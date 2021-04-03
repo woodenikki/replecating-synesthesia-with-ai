@@ -86,7 +86,7 @@ if __name__ == "__main__":
         keras.layers.Dropout(0.1),
 
         # output
-        keras.layers.Dense(num_classes, activation="sigmoid") # TODO: 11 color categories
+        keras.layers.Dense(num_classes, activation="softmax") # TODO: 11 color categories
     ])
     
     # compile network
@@ -95,10 +95,10 @@ if __name__ == "__main__":
     model.summary()
 
     # train network
-    history = model.fit(inputs_train, targets_train, validation_data=(inputs_test, targets_test), epochs=100, batch_size=32)
+    history = model.fit(inputs_train, targets_train, validation_data=(inputs_test, targets_test), epochs=75, batch_size=32)
 
     # plot accuracy and error over the epochs
-    # plot_history(history)
+    plot_history(history)
 
     #plot confusion matrix
     # knn = KNeighborsClassifier()
@@ -125,3 +125,6 @@ if __name__ == "__main__":
     ax.set_ylabel('Actual', fontsize=20)
     ax.set_xlabel('Predicted', fontsize=20)
     plt.show()
+
+    #save model uwu
+    model.save("luminisity75.h5")
