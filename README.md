@@ -1,4 +1,5 @@
 # Synesthesia-Capstone
+> Nikki Wood | Spring 2021
 
 ## Background
 Chromesthesia, also known as sound-to-color synesthesia, is a rare phenomenon in which an indivudal perceives non-visual stimulus visually. For example, they  may hear a song and see a specific color; they may observe someone's personality as specific scenery in their head; or they may recount their emotions visually, such as excitement being described as an electric blue.
