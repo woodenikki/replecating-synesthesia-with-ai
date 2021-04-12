@@ -8,7 +8,6 @@ import tensorflow as tf
 import tensorflow.keras as keras
 from sklearn.model_selection import train_test_split
 
-# https://www.tensorflow.org/io/tutorials/audio
 
 COLOR_CATEGORIES = ["Black", "Blue", "Brown", "Gray", "Green", "Orange", "Pink", "Purple", "Red", "White", "Yellow"]
 TEXTURE_CATEGORIES = ["None", "Smoky", "Smooth", "Soft", "Sparkly", "Spiky", "Woody"]

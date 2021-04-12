@@ -1,26 +1,19 @@
 # for testing only!
 
-
+import os
+import csv
 import json
 import numpy as np
 
 import keras
-from keras import models
-from sklearn.model_selection import train_test_split
-import tensorflow.keras as keras
 import librosa
-import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
-import os
-import csv
+
 # Preprocessing
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import LabelEncoder, StandardScaler
-#Keras
-import keras
-from keras import models
-from keras import layers
+
 
 # path to json file that stores MFCCs and genre labels for each processed segment
 DATA_PATH = "src\data.json"
@@ -89,17 +82,4 @@ if __name__ == "__main__":
     # predictions
     predictions = model.predict(X_test)
     np.argmax(predictions[0])
-
-    # print("*****PRINTING X_test*****")
-    # for x in X_test:
-    #     print(x)
-
-    # print("*****PRINTING y_train*****")
-    # for x in y_train:
-    #     print(x)
-
-    # print("*****PRINTING y_test*****")
-    # for x in y_test:
-    #     print(x)
-
 
