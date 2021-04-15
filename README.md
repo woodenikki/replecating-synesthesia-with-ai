@@ -3,7 +3,7 @@
 
 ## Project Description
 
-The goal of this project is to create an AI to see if it can learn and replicate the synesthetic responses of one young adult woman. 
+The goal of this project is to create an AI to learn and replicate the synesthetic responses of one young adult woman. 
 This AI will be trained for three categories (luminosity, color, and texture). After being trained, the user should be able to input a 30 second song sample; 
 the AI will analyze the sample and output a prediction for the client's synesthetic response.
 
