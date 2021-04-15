@@ -14,17 +14,17 @@ SAMPLES_PER_TRACK   = SAMPLE_RATE * DURATION
 
 def save_mfcc(dataset_path, json_path, n_mfcc=13, n_fft=2048, hop_length=512, num_segments=5):
     """Extracts MFCCs from music dataset and saves them into a json file along with genre labels.
-        :param dataset_path (str): Path to dataset
-        :param json_path (str): Path to json file used to save MFCCs
-        :param num_mfcc (int): Number of coefficients to extract
-        :param n_fft (int): Interval we consider to apply FFT. Measured in # of samples
-        :param hop_length (int): Sliding window for FFT. Measured in # of samples
-        :param: num_segments (int): Number of segments we want to divide sample tracks into
+        dataset_path: Path to dataset
+        json_path: Path to json file used to save MFCCs
+        num_mfcc: Number of coefficients to extract
+        n_fft: Interval we consider to apply FFT. Measured in # of samples
+        hop_length: Sliding window for FFT. Measured in # of samples
+        num_segments: Number of segments we want to divide sample tracks into
         :return:
         """
     # build a dictionary to store data
     data = {
-        "mapping": [],                                  # "classical" (-> 0), "blues (-> 1), etc...
+        "mapping": [],                                  # "red" (-> 0), "orange (-> 1), etc...
         "mfcc": [],                                     # training inputs
         "labels": []                                    # training targets [0, 0, 1]
     }

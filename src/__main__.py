@@ -64,7 +64,7 @@ def load_data(dataset_path, num_segments=10, n_mfcc=13, n_fft=2048, hop_length=5
     SAMPLES_PER_TRACK       = SAMPLE_RATE * DURATION
     # build a dictionary to store data
     data = {
-        "mapping": [],                                  # "classical" (-> 0), "blues (-> 1), etc...
+        "mapping": [],                                  # "red" (-> 0), "orange (-> 1), etc...
         "mfcc": [],                                     # training inputs
         "labels": [],                                   # training targets [0, 0, 1]
         "names": []

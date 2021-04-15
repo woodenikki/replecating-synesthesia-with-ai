@@ -101,22 +101,8 @@ if __name__ == "__main__":
     plot_history(history)
 
     #plot confusion matrix
-    # knn = KNeighborsClassifier()
-    # knn.fit(inputs_train, targets_train)
-    # y_pred = model.predict_classes(inputs_test)
     y_pred = np.argmax(model.predict(inputs_test), axis=-1)
     y_test = targets_test
-
-
-    # print("*****PRINTING X_train*****")
-    # X_pred = np.argmax(model.predict(inputs_train), axis=-1)
-    # # X_pred_binary = keras.utils.to_categorical(X_train - X_train.min(), num_classes=11)
-    # for x in X_pred:
-    #     print(x)
-
-    # print(y_pred)
-    # print("*********")
-    # print(y_test)
 
     cm = confusion_matrix(y_test, y_pred)
     plt.figure(figsize=(12, 12))
