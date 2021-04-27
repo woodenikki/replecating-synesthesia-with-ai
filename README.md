@@ -25,4 +25,4 @@ the AI will analyze the sample and output a prediction for the client's synesthe
   - [x] [Literary review](https://docs.google.com/document/d/1UWc7Ig1uaU3RLGmGximw67Pj6JJ1DHLD26NWGjQ-WpA/edit?usp=sharing) (Secondary)
   - [ ] Report for Publication (Tertiary, INCOMPLETE)
 
-Please refer to the [**Project Evaluation**](Documentation/9.%20Project%20Evaluation.md).
+Please refer to the [**Project Evaluation**](Documentation/9.%20Project%20Evaluation.md) and [**Initial Contract**](Documentation/0.Contract.md)
