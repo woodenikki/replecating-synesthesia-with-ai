@@ -19,7 +19,7 @@ the AI will analyze the sample and output a prediction for the client's synesthe
   - [x] Neural Net and Deep Learning [practice in Python](https://github.com/woodenikki/SynesthesIA/tree/main/practice)
   - [x] Data and Responses [Excel sheet](https://docs.google.com/spreadsheets/d/1HJfHXcbVR-pNbT7ZG6pJSjnzLiJLgVJDMIFB4BtXrLc/edit?usp=sharing)
   - [x] Reflection(s) of [knowledge expansion](SynesthesIA/Documentation/9.%20Project%20Evaluation.md#reflect-on-the-expansion-of-my-knowledge-and-comprehension-of-ai-deep-learning-and-neural-nets) and [objectives](Documentation/9.%20Project%20Evaluation.md#objective-reflections)
-  - [x] [Doucmentation](https://github.com/woodenikki/SynesthesIA/tree/main/Documentation) kept through process
+  - [x] [Documentation](https://github.com/woodenikki/SynesthesIA/tree/main/Documentation) kept through process
   - [x] [Time report](Documentation/8.%20Time%20Report.md)
   - [x] [Final presentation](https://docs.google.com/presentation/d/1K_DkJ5v7R2aWCPY0kKZC4Zgahlbz9XpY1vBRZODq0hk/edit?usp=sharing) 
   - [x] [Literary review](https://docs.google.com/document/d/1UWc7Ig1uaU3RLGmGximw67Pj6JJ1DHLD26NWGjQ-WpA/edit?usp=sharing) (Secondary)
