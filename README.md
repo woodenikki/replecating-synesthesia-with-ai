@@ -14,7 +14,7 @@ the AI will analyze the sample and output a prediction for the client's synesthe
 > **Texture** also supports the overall impression of a color. Texture categories will be *Sparkly*, *Spiky*, *Woody*, *Smoky*, *Smooth*, *Soft*, and *None*.
 
 ## Deliverable Items
-  - [x] Code Generated: [main.py](../SynesthesIA/src/__main__.py),  [build_model.py](../SynesthesIA/src/build_model.py), [extract_data](../SynesthesIA/src/extract_data.py)
+  - [x] Code Generated: [main.py](src/__main__.py),  [build_model.py](src/build_model.py), [extract_data](src/extract_data.py)
   - [x] Accuracy [Report](https://drive.google.com/file/d/1zSFwNzc7aQ2I8wNxLzGFGn--V7_go92y/view?usp=sharing) and [Reflection](Documentation/6.%20Accuracy%20Reflection.md)
   - [x] Neural Net and Deep Learning [practice in Python](https://github.com/woodenikki/SynesthesIA/tree/main/practice)
   - [x] Data and Responses [Excel sheet](https://docs.google.com/spreadsheets/d/1HJfHXcbVR-pNbT7ZG6pJSjnzLiJLgVJDMIFB4BtXrLc/edit?usp=sharing)
