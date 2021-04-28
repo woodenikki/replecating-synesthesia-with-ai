@@ -23,6 +23,6 @@ the AI will analyze the sample and output a prediction for the client's synesthe
   - [x] [Time report](Documentation/8.%20Time%20Report.md)
   - [x] [Final Presentation](https://docs.google.com/presentation/d/1K_DkJ5v7R2aWCPY0kKZC4Zgahlbz9XpY1vBRZODq0hk/edit?usp=sharing) 
   - [x] [Literary review](https://docs.google.com/document/d/1UWc7Ig1uaU3RLGmGximw67Pj6JJ1DHLD26NWGjQ-WpA/edit?usp=sharing) (Secondary)
-  - [x] [Report for Publication](https://drive.google.com/file/d/1zSFwNzc7aQ2I8wNxLzGFGn--V7_go92y/view?usp=sharing) (Tertiary, DRAFT)
+  - [x] [Report for Publication](https://drive.google.com/file/d/1HAAi3kjVazRF7sUtffZRCqyHexMCCmDy/view?usp=sharing) (Tertiary, DRAFT)
 
 Please refer to the [**Project Evaluation**](Documentation/9.%20Project%20Evaluation.md) and [**Initial Contract**](Documentation/0.Contract.md)
