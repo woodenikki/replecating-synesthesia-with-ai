@@ -14,15 +14,12 @@ the AI will analyze the sample and output a prediction for the client's synesthe
 > **Texture** also supports the overall impression of a color. Texture categories will be *Sparkly*, *Spiky*, *Woody*, *Smoky*, *Smooth*, *Soft*, and *None*.
 
 ## Deliverable Items
+
   - [x] Code Generated: [main.py](src/__main__.py),  [build_model.py](src/build_model.py), [extract_data](src/extract_data.py)
-  - [x] Accuracy [Report](https://drive.google.com/file/d/1zSFwNzc7aQ2I8wNxLzGFGn--V7_go92y/view?usp=sharing) and [Reflection](Documentation/6.%20Accuracy%20Reflection.md)
   - [x] Neural Net and Deep Learning [practice in Python](https://github.com/woodenikki/SynesthesIA/tree/main/practice)
-  - [x] Data and Responses [Excel sheet](https://docs.google.com/spreadsheets/d/1HJfHXcbVR-pNbT7ZG6pJSjnzLiJLgVJDMIFB4BtXrLc/edit?usp=sharing)
   - [x] Reflection(s) of [knowledge expansion](Documentation/9.%20Project%20Evaluation.md#reflect-on-the-expansion-of-my-knowledge-and-comprehension-of-ai-deep-learning-and-neural-nets) and [objectives](Documentation/9.%20Project%20Evaluation.md#objective-reflections)
   - [x] [Documentation](https://github.com/woodenikki/SynesthesIA/tree/main/Documentation) kept through process
   - [x] [Time report](Documentation/8.%20Time%20Report.md)
-  - [x] [Final presentation](https://docs.google.com/presentation/d/1K_DkJ5v7R2aWCPY0kKZC4Zgahlbz9XpY1vBRZODq0hk/edit?usp=sharing) 
-  - [x] [Literary review](https://docs.google.com/document/d/1UWc7Ig1uaU3RLGmGximw67Pj6JJ1DHLD26NWGjQ-WpA/edit?usp=sharing) (Secondary)
-  - [x] [Report for publication](https://drive.google.com/file/d/1HAAi3kjVazRF7sUtffZRCqyHexMCCmDy/view?usp=sharing) (Tertiary)
+  - [x] [Report for publication]([https://drive.google.com/file/d/1HAAi3kjVazRF7sUtffZRCqyHexMCCmDy/view?usp=sharing](https://www.linkedin.com/in/woodenikki/overlay/1635470672173/single-media-viewer/?profileId=ACoAACIP3SsBUouDTns1XxZF4fvfFQ0b1qNXdTA)) (Tertiary)
 
 Please refer to the [**Project Evaluation**](Documentation/9.%20Project%20Evaluation.md) and [**Initial Contract**](Documentation/0.Contract.md)
