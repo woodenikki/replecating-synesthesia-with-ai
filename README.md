@@ -20,6 +20,6 @@ the AI will analyze the sample and output a prediction for the client's synesthe
   - [x] Reflection(s) of [knowledge expansion](Documentation/9.%20Project%20Evaluation.md#reflect-on-the-expansion-of-my-knowledge-and-comprehension-of-ai-deep-learning-and-neural-nets) and [objectives](Documentation/9.%20Project%20Evaluation.md#objective-reflections)
   - [x] [Documentation](https://github.com/woodenikki/SynesthesIA/tree/main/Documentation) kept through process
   - [x] [Time report](Documentation/8.%20Time%20Report.md)
-  - [x] [Report for publication](https://www.linkedin.com/in/woodenikki/overlay/1635470672173/single-media-viewer/?profileId=ACoAACIP3SsBUouDTns1XxZF4fvfFQ0b1qNXdTA) (Tertiary)
+  - [x] [Report for publication](NWood_Exploring_Synesthesia_Replecation_Using_AI.pdf) (Tertiary)
 
 Please refer to the [**Project Evaluation**](Documentation/9.%20Project%20Evaluation.md) and [**Initial Contract**](Documentation/0.Contract.md)
